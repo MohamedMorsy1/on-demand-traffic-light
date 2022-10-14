@@ -16,3 +16,4 @@ System components:
 4. Three LEDs for pedestrians - Green, Yellow, and Red, connected on port B, pins 0,
 1, and 2
 
+The schematic and simulation is made on SimuIDE software.
