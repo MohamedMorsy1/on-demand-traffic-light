@@ -5,8 +5,7 @@ the signal operations know that someone is planning to cross the street, so the
 light adjusts, giving the pedestrian enough time to get across.
 The regular traffic light colors are red, yellow, and green arranged vertically or
 horizontally in that order.
-Cars' LEDs will be changed every five seconds starting from Green then yellow then
-red then yellow then Green.
+Cars' LEDs will be changed every five seconds starting from Green then yellow then red then yellow then Green.
 The Yellow LED will blink for five seconds before moving to Green or Red LEDs.
 
 System components:
